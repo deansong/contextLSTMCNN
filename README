@@ -68,3 +68,6 @@ Options:
   --blstmBlstmcnn       train blstmBlstmcnn
   --loadW2V=LOADW2V     load trianed w2v
 
+Cite:
+Xingyi Song, Johann Petrak, Angus Roberts. A Deep Neural Network Sentence Level
+Classification Method with Context Information. In: EMNLP, 2018
